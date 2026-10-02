@@ -96,5 +96,7 @@
     "overrides": {
       "tailwindcss>nanoid": "3.3.7"
     }
-  }
+  },
+  "description": "Islamic Quiz App — Arabic React/TypeScript multiple-choice quiz with randomized answers and score tracking.",
+  "author": "Mohammed Alhadrami / MAM_Tkno"
 }
